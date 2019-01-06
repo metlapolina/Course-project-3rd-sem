@@ -1,0 +1,3 @@
+﻿  GenLib.cpp
+d:\mpg2018\generation\genlib\genlib.cpp(19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  GenLib.vcxproj -> D:\MPG2018\Generation\Debug\GenLib.lib

@@ -1,0 +1,27 @@
+---------------Таблица идентификаторов-------------------------------
+Имя id    Тип данных Тип id     № в ТЛ    Значение  
+calc      integer    Function   2         0
+fcalc     integer    Parameter  5         0
+scalc     integer    Parameter  8         0
+acalc     integer    Variable   13        0
+bcalc     integer    Variable   17        0
+ltrl0     integer    Literal    25        2
+ltrl1     integer    Literal    32        27
+ltrl2     integer    Literal    37        4
+ltrl3     integer    Literal    40        2
+ltrl4     integer    Literal    42        6
+ltrl5     string     Literal    52        'MPG2018'
+mark      integer    Variable   56        0
+course    integer    Variable   60        0
+att       integer    Variable   64        9
+coursepr  integer    Variable   70        0
+ltrl6     integer    Literal    76        15
+hope      string     Variable   96        'I will pass the course project '
+dream     string     Variable   102       'with a good mark!'
+happy     string     Variable   108       NULL
+chance    string     Variable   121       'Your chances are equal: '
+len       integer    Variable   127       0
+ltrl7     string     Literal    141       'percent.'
+ltrl8     integer    Literal    147       0
+
+

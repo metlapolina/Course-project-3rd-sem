@@ -1,0 +1,33 @@
+integer function calc(integer f, integer s)
+{
+ declare integer a;
+ declare integer b;
+ a = pow(s,2);
+ b = a/27 - (f+4)*2 + 6;
+ finish b; 
+};
+
+go
+{
+ print 'MPG2018';
+ declare integer mark;
+ declare integer course;
+ declare integer att = 9;
+ declare integer coursepr;
+ coursepr = att-15;
+ course = abs(coursepr);
+ mark =  calc(course,att);
+
+ declare string hope= 'I will pass the course project ';
+ declare string dream = 'with a good mark!';
+ declare string happy;
+ happy = hope + dream;
+ print happy;
+ declare string chance = 'Your chances are equal: ';
+ declare integer len = strlen(chance);
+ print chance;
+ print len;
+ print 'percent.';
+ print mark;
+ finish 0;
+};
