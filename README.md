@@ -1,2 +1,2 @@
 # course-project-3rd-sem
-mpg-2018
+compiler for own programming language mpg-2018
